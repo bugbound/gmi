@@ -4,8 +4,8 @@ A tool to determine what sites are available on web servers
 ## Install
 ```pip install -r requirements.txt
 
-## Run using http
+### Run using http
 ```python gmi.py /tmp/hosts.txt
 
-## Run using https
+### Run using https
 ```python gmi.py /tmp/hosts.txt --https
